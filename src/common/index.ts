@@ -1,0 +1,1 @@
+export { default as CreateRes } from './utils/create-response.response'

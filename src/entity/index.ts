@@ -1,0 +1,1 @@
+export {default as UserAuthEntity } from './access_token.entity'
